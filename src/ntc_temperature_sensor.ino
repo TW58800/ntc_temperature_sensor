@@ -18,7 +18,7 @@ float c1 = 0.001125308852122f, c2 = 0.000234711863267f, c3 = 0.000000085663516f;
 void setup() {
 
 	// Connects to a network secured with WPA2 credentials.
-	//WiFi.setCredentials("Humpty", "ttIImm11&&");
+	//WiFi.setCredentials("Humpty", "**********");
 	//WiFi.setConfig(NetworkInterfaceConfig()
   		//.source(NetworkInterfaceConfigSource::STATIC)
   		//.address({192,168,0,7}, {255,255,255,0}));
